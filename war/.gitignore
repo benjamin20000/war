@@ -1,0 +1,12 @@
+# Rider / JetBrains IDE files
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build and temp files
+*.log
+*.tmp
+*.war
